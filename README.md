@@ -31,7 +31,8 @@ Add your own screenshots to this section! To add a screenshot:
 3. Add a markdown image link below, for example:
 
 ```
-<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/69e84200-daf1-4b23-88bd-261e88f51fb0" />
+![Preview](https://github.com/user-attachments/assets/69e84200-daf1-4b23-88bd-261e88f51fb0)
+
 
 ```
 
