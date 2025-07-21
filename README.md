@@ -31,7 +31,8 @@ Add your own screenshots to this section! To add a screenshot:
 3. Add a markdown image link below, for example:
 
 ```
-![Game Screenshot](https://github.com/user-attachments/assets/c6389ad9-3f1e-45ea-b230-989a9fd10d65)
+![Image](https://github.com/user-attachments/assets/5805886d-1ac2-4acf-98d7-2d8d7ef68848)
+![Image](https://github.com/user-attachments/assets/c6389ad9-3f1e-45ea-b230-989a9fd10d65)
 
 ```
 
