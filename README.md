@@ -16,8 +16,11 @@ A simple and fun C# WPF car racing game! Select your car, race against AI oppone
 4. **Run the project (F5 or `dotnet run --project CSharpSpeedRush.csproj`).**
 
 ## Adding Car Images
-- Place your car images (`car_red.png`, `car_blue.png`, `car_green.png`, `car_gold.png`) in the `Assets` folder at the project root.
-- In Visual Studio, right-click each image in the `Assets` folder, select **Properties**, and set:
+![Red Car](./Assets/car_red.jpeg)
+![Blue Car](./Assets/car_blue.jpeg)
+![Golden Car](./Assets/car_gold.jpeg)
+![Green Car](./Assets/car_green.jpeg)
+**Properties**, and set:
   - **Build Action:** Content
   - **Copy to Output Directory:** Copy if newer
 
@@ -28,9 +31,8 @@ Add your own screenshots to this section! To add a screenshot:
 3. Add a markdown image link below, for example:
 
 ```
-![Game Screenshot](screenshots/game1.png)
-```
+![Game Screenshot](https://github.com/user-attachments/assets/c6389ad9-3f1e-45ea-b230-989a9fd10d65)
 
----
+```
 
 Enjoy racing in CSharpSpeedRush! 
